@@ -18,12 +18,11 @@ Hier eine Präsentation der Buttons, die ihr in Zotero finden werden.
 | ![](/assets/button7_3.png) | 3. **Link zur URI hinzufügen...** |
 | ![](/assets/button7_4.png) | 4. **Gespeicherte Kopie der Datei anhängen** hängt eine Kopie der Datei an ein ausgewähltes Element an |
 | ![](/assets/button7_5.png) | 5.** Link auf Datei anhängen…** hängt einen Link auf das Dokument an das ausgewählte Element an |
-|  | **Illegal nested table :** Schnappschuss von aktueller Webseite anhängen \(Joindre une capture de la page courante\)Link zu aktueller Webseite anhängen \(Joindre un lien vers la page courante\)Link zur URI hinzufügen...Gespeicherte Kopie der Datei anhängen hängt eine Kopie der Datei an ein ausgewähltes Element anLink auf Datei anhängen… hängt einen Link auf das Dokument an das ausgewählte Element an |
-|  | **Erweiterte Suche** |
-|  | **Finden**sucht eine Referenz im Web oder in einem Bibliothekskatalog \(muss eingestellt werden unter _Préférences / Résolveur de liens_\) |
-|  | **Synchronisierung mit Zotero-Server **_**\(Synchronisation avec le serveur Zotero\)**_** **\(man muss auf [www.zotero.org](http://www.zotero.org/) eingeschrieben sein\) |
-|  | **Tab-Modus ein-/ausschalten** Wechsel in den Vollbild-Modus |
-|  | Um das Fensters von Zotero zu schliessen |
+| ![](/assets/button8.png) | **Erweiterte Suche** |
+| ![](/assets/button9.png) | **Finden ** sucht eine Referenz im Web oder in einem Bibliothekskatalog \(muss eingestellt werden unter _Préférences / Résolveur de liens_\) |
+| ![](/assets/button10.png) | **Synchronisierung mit Zotero-Server **_**\(Synchronisation avec le serveur Zotero\)**_** **\(man muss auf [www.zotero.org](http://www.zotero.org/) eingeschrieben sein\) |
+| ![](/assets/button11.png) | **Tab-Modus ein-/ausschalten** Wechsel in den Vollbild-Modus |
+| ![](/assets/button12.png) | Um das Fensters von Zotero zu schliessen |
 
 
 
