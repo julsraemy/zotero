@@ -2,6 +2,8 @@
 
 Das Interface von Zotero besteht aus drei Teilen:
 
+![](/assets/teilen.png)
+
 Hier eine Präsentation der Buttons, die ihr in Zotero finden werden.
 
 | Button | Funktionnalität |
