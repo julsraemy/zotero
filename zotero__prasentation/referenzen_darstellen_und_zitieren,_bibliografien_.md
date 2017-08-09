@@ -2,7 +2,7 @@
 
 ### Wahl eines Stils zur Darstellung von Referenzen {#wahl-eines-stils-zur-darstellung-von-referenzen}
 
-Zotero bietet als Grundeinstellung etwa 15 Zitier-Stile an \(_Actions / Préférences / Cite / Styles_\). Aber man kann auch weitere hinzufügen, indem man auf _Weitere Stile hinzufügen_ klickt. Der Stil ISO-690 \(in der HEG verlangt, siehe Link: [https://www.hesge.ch/heg/sites/default/files/guide\_ref.pdf](https://www.hesge.ch/heg/sites/default/files/guide_ref.pdf%29/\)\) ist noch nicht installiert.
+Zotero bietet als Grundeinstellung etwa 15 Zitier-Stile an \(_Actions / Préférences / Cite / Styles_\). Aber man kann auch weitere hinzufügen, indem man auf _Weitere Stile hinzufügen_ klickt. Der Stil ISO-690 \(in der HEG verlangt\) ist noch nicht installiert.
 
 ---
 
