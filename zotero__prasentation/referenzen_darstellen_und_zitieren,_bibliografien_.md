@@ -20,8 +20,8 @@ Um eine Bibliografie zu erstellen \(die Basisfunktionalität eines Literaturverw
 
 Zotero bietet die Möglichkeit, in eurem Textverarbeitungsprogramm \(Word oder LibreOffice\) ein Plug-in zu installieren, das es erlaubt, Referenzen in einem Text zu zitieren und automatisch Bibliografien zu erstellen. Die folgende Abbildung zeigt die verschiedenen Funktionen des Plug-ins:
 
-| Icon | Funktionalität |
-| :--- | :--- |
+| Button | Funktionalität |
+| :---: | :--- |
 | ![](/assets/ref1.png) | Zitat hinzufügen |
 | ![](/assets/ref2.png) | Zitat ändern |
 | ![](/assets/ref3.png) | Bibliografie hinzufügen |
