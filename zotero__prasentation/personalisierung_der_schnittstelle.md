@@ -6,5 +6,7 @@
 
 **Aufgabe**
 
-Wählt eine Darstellung mit _Titel_, _Autor_, _Jahr_ und _Verlag_ \(éditeur\).
+* Wählt eine Darstellung mit _Titel_, _Autor_, _Jahr_ und _Verlag_ \(éditeur\).
+
+
 

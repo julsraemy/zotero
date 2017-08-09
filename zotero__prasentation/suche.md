@@ -11,7 +11,8 @@ Wenn ihr eine Suche durchführt, achtet auf folgende Punkte:
 
 **Aufgabe**
 
-Nutzt die _erweiterte Suche_. Sucht die Elemente, die im Titel _Gilliam_ enthalten und Bücher sind. Wie viele Resultate?
+* Nutzt die _erweiterte Suche_. Sucht die Elemente, die im Titel _Gilliam_ enthalten und Bücher sind. Wie viele Resultate?
+* Speichert die Suche.
 
-Speichert die Suche.
+
 
