@@ -3,7 +3,6 @@
 * [Zotero](README.md)
 * [Einführung in die Verwaltungssysteme von bibliographischen Referenzen ](einfuhrung_in_die_verwaltungssysteme_von_bibliogra.md)
 * [Zotero – Präsentation ](zotero__prasentation/README.md)
-  * [Öffnen des Programms](zotero__prasentation/offnen_des_programms.md)
   * [Präsentation der Schnittstelle](zotero__prasentation/prasentation_der_schnittstelle.md)
   * [Personalisierung der Schnittstelle](zotero__prasentation/personalisierung_der_schnittstelle.md)
   * [Erstellen und Änderung von Referenzen ](zotero__prasentation/erstellen_und_anderung_von_referenzen.md)
@@ -13,3 +12,4 @@
   * [Gruppenarbeiten](zotero__prasentation/gruppenarbeiten.md)
 * [Weiterführende Informationen](weiterfuhrende_informationen.md)
 * [Bibliografie](bibliografie.md)
+

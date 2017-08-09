@@ -2,14 +2,14 @@
 
 ### Wahl eines Stils zur Darstellung von Referenzen {#wahl-eines-stils-zur-darstellung-von-referenzen}
 
-Zotero bietet als Grundeinstellung etwa 15 Zitier-Stile an \(_Actions / Préférences / Cite / Styles_\). Aber man kann auch weitere hinzufügen, indem man auf _Weitere Stile hinzufügen_ klickt. Der Stil ISO-690 \(in der HEG verlangt\) ist noch nicht installiert.
+Zotero bietet als Grundeinstellung etwa 15 Zitier-Stile an. Aber man kann auch weitere hinzufügen, indem man auf _Weitere Stile hinzufügen_ klickt. Der Stil ISO-690 \(in der HEG verlangt\) ist noch nicht installiert.
 
 ---
 
 **Aufgabe**
 
 * Installiert den Stil _ISO-690 \(author-date, no abstract, French\)_. Definiert ihn als Standartausgabeformat \(_Format de sortie par défaut_\).
-* Es ist möglich, alle Stile auf einmal zu testen. Wählt einen Eintrag aus und geht auf Be_arbeiten / Einst_tellungen / _Ziterien _ / _Zitierstil-Vorschau _ \(_Editions / Préférences / Citations / Aperçu des citations_\).
+* Es ist möglich, alle Stile auf einmal zu testen. Wählt einen Eintrag aus und geht auf Be_arbeiten / Einst\_tellungen / \_Ziterien _ / _Zitierstil-Vorschau _ \(_Editions / Préférences / Citations / Aperçu des citations_\).
 
 ### Bibliografie erstellen {#bibliografie-erstellen}
 
