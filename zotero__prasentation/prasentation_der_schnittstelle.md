@@ -6,7 +6,7 @@ Das Interface von Zotero besteht aus drei Teilen:
 
 Hier eine Präsentation der Buttons, die ihr in Zotero finden werden.
 
-| Button | Funktionnalität |
+| Button | Funktionalität |
 | :---: | :--- |
 | ![](/assets/button1.png) | **Neue Sammlung...** erstellt eine neue Sammlung, um die Elemente zu sortieren |
 | ![](/assets/button2.png) | **Neue Gruppe**_**…**_ fügt eine Gruppe hinzu, zu der ihr gehört |

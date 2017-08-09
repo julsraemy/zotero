@@ -4,3 +4,5 @@ Startet Firefox und klickt auf das Symbol _Zotero_ in der Statusleiste des Brows
 
 ![](/assets/firefox_zotero.png)
 
+![](/assets/zotero_strg_shift_z.png)
+
