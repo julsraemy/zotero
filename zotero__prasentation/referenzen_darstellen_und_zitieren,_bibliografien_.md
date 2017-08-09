@@ -9,7 +9,7 @@ Zotero bietet als Grundeinstellung etwa 15 Zitier-Stile an \(_Actions / Préfér
 **Aufgabe**
 
 * Installiert den Stil _ISO-690 \(author-date, no abstract, French\)_. Definiert ihn als Standartausgabeformat \(_Format de sortie par défaut_\).
-* Es ist möglich, alle Stile auf einmal zu testen. Wählt einen Eintrag aus und geht auf _Actions / Préférences / Avancé / Ouvrir l'Aperçu des styles_.
+* Es ist möglich, alle Stile auf einmal zu testen. Wählt einen Eintrag aus und geht auf Be_arbeiten / Einst_tellungen / _Ziterien _ / _Zitierstil-Vorschau _ \(_Editions / Préférences / Citations / Aperçu des citations_\).
 
 ### Bibliografie erstellen {#bibliografie-erstellen}
 
