@@ -26,7 +26,6 @@ Das Recherchethema dieser Aufgabe ist _Terry Gilliam_.
 3. 1. Wählt ein Element aus und schaut euch an, was die Registerkarten \(onglets\) _Infos_, _Notizen_, _Tags_ \(marqueurs\) und _Zugehörig_ \(connexes\) enthalten \(rechtes Fenster\). Das ausgewählte Element hat sicherlich ein oder mehrere Tags. Es ist möglich, diese nicht zu importieren, wenn man die Option „_Ajouter automatiquement aux éléments des marqueurs grâce aux mots-clés et aux rubriques_“ nicht auswählt \(décocher in _Préférences\)._
    2. Wählt die Sammlung _Filme_ aus, fügt den Tag _Kino_ zu allen Elementen hinzu.
    3. Welche Unterschiede haben sie zwischen den automatischen Tags und den Tags, die ihr selber hinzufügt?
-
 4. 1. Erstellt eine neue Sammlung _Artikel_.
 
    2. Führt eine Suche zum Thema „Kino“ in _Business Source Premier_ \([http://www.hesge.ch/heg/infotheque/collections/bases-donnees-documentaires\#B](http://www.hesge.ch/heg/infotheque/collections/bases-donnees-documentaires), Zugriff nur an der HEG\) durch. Fügt den ersten Artikel hinzu, den ihr findet.
