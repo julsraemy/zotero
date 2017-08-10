@@ -28,9 +28,9 @@ Zotero bietet die Möglichkeit, in eurem Textverarbeitungsprogramm \(Word oder L
 | :---: | :--- |
 | ![](/assets/neu1.png) | Zitat hinzufügen oder ändern |
 | ![](/assets/neu2.png) | Bibliografie hinzufügen order bearbeiten |
-| ![](/assets/ref5.png) | Aktualisieren \(falls ihr die Metadaten in Zotero geändert habt\) |
-| ![](/assets/ref6.png) | Dokumenteinstellungen verändern \(benutzer Stil\) |
-| ![](/assets/ref7.png) | Links mit der Datenbank löschen |
+| ![](/assets/neu3.png) | Aktualisieren \(falls ihr die Metadaten in Zotero geändert habt\) |
+| ![](/assets/neu4.png) | Dokumenteinstellungen verändern \(benutzer Stil\) |
+| ![](/assets/neu5.png) | Links mit der Datenbank löschen |
 
 Mit dem roten Suchfenster könnt ihr eure Referenzdatenbank abfragen und ein Zitat hinzufügen. Wenn ihr dann auf das Zitat im roten Fenster klickt, könnt ihr die Seite bestimmen, wo ihr die Information in der Quelle gefunden habt.
 
