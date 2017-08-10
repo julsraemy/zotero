@@ -26,10 +26,8 @@ Zotero bietet die Möglichkeit, in eurem Textverarbeitungsprogramm \(Word oder L
 
 | Button | Funktionalität |
 | :---: | :--- |
-| ![](/assets/ref1.png) | Zitat hinzufügen |
-| ![](/assets/ref2.png) | Zitat ändern |
-| ![](/assets/ref3.png) | Bibliografie hinzufügen |
-| ![](/assets/ref4.png) | Bibliografie bearbeiten |
+| ![](/assets/neu1.png) | Zitat hinzufügen oder ändern |
+| ![](/assets/neu2.png) | Bibliografie hinzufügen order bearbeiten |
 | ![](/assets/ref5.png) | Aktualisieren \(falls ihr die Metadaten in Zotero geändert habt\) |
 | ![](/assets/ref6.png) | Dokumenteinstellungen verändern \(benutzer Stil\) |
 | ![](/assets/ref7.png) | Links mit der Datenbank löschen |
@@ -42,7 +40,7 @@ Mit dem roten Suchfenster könnt ihr eure Referenzdatenbank abfragen und ein Zit
 
 **Aufgabe**:
 
-* Insalliert das Plug-in von der Zotero-Webseite in euer Textverarbeitungsprogramm. Ihr müsst wahrscheinlich das Programm neu starten, um das Plug-in anzuzeigen.
+* Insalliert das Plug-in in euer Textverarbeitungsprogramm.
 * Öffnet ein neues Textdokument. Schreibt einen Satz und fügt anschliessend eine Referenz zu einer Notiz eurer Zotero-Bibliothek hinzu. Schreibt einen neuen Satz und fügt eine zweite Referenz hinzu. Fügt am Ende die Bibliografie hinzu.
 * Ändert den bibliografischen Stil für _American Psychological Association, 6th Edition._
 
