@@ -1,6 +1,6 @@
 # Zotero
 
-_Zotero_ ist eine praktische Arbeit des Kurs "721-22nA – Informations- und Dokumentationssysteme \(IDS\)", [Haute école de gestion de Genève](http://campus.hesge.ch/id_bilingue/) - René Schneider und Julien A. Raemy, Herbstsemester 2017-2018
+_Zotero_ ist eine praktische Arbeit des Kurs "721-22nA – Informations- und Dokumentationssysteme \(IDS\)", [Haute école de gestion de Genève](http://campus.hesge.ch/id_bilingue/) - René Schneider und Julien A. Raemy, Herbstsemester 2018-2019
 
 ## Lizenz
 
